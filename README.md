@@ -1,2 +1,2 @@
 # Java30DaysChallenge
-Hacker Rank Java 30 Days challenge 
+This a a Java code samples from a 30 Days challenge on Hacker Rank.
