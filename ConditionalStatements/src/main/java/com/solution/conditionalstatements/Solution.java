@@ -32,8 +32,9 @@ public class Solution {
         else if (N > 20 && N % 2 == 0){
             System.out.println("Not Weird");
         }
-        else {
-            System.out.println("Not Weird");
+        else if (N > 100){
+            System.out.println("Out of Range");
+            
         }
         scanner.close();
     }
