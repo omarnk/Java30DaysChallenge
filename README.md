@@ -4,5 +4,8 @@
 # Topics covered:
   - Explaining stdin , stdout and scanner method use cases.
   - Data types by example.
+  - Constructor method.
+  - Mathematical perations.
+  - Conditional statements.
  
 
