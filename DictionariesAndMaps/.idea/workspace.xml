@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1VRUbN2Q6qR9jIoq8ExBhkkfiB6" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solution.dictionariesandmaps.Solution" />
+      <module name="DictionariesAndMaps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solution.dictionariesandmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2120" y="177" key="#Project_Structure" timestamp="1577215549088">
+      <screen x="1680" y="23" width="1680" height="977" />
+    </state>
+    <state x="2120" y="177" key="#Project_Structure/1680.23.1680.977/0.23.1680.1027@1680.23.1680.977" timestamp="1577215549088" />
+    <state x="2190" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577215476044">
+      <screen x="1680" y="23" width="1680" height="977" />
+    </state>
+    <state x="2190" y="344" key="com.intellij.ide.util.TipDialog/1680.23.1680.977/0.23.1680.1027@1680.23.1680.977" timestamp="1577215476044" />
+  </component>
+</project>
